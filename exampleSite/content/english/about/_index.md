@@ -7,4 +7,6 @@ draft: false
 ---
 Hello this is Farhad Hossen. \
 I'm updating this content with Zditor CMS.
-Upddated from local. 
+Updated from local.
+
+![](/assets/images/gallery/03.jpg)
