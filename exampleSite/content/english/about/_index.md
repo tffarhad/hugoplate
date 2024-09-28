@@ -2,7 +2,7 @@
 title: Hey, I am Farhad Hossen
 meta_title: About
 description: this is meta description
-image: /images/tffarhad.jpg
+image: /assests/images/tffarhad.jpg
 draft: false
 ---
 Hello this is Farhad Hossen. \
