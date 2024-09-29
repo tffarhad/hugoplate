@@ -1,7 +1,7 @@
 ---
 title: 'Top Integrations for Astro CMS: Enhancing Your Jamstack Workflow'
-meta_title: ''
-description: ''
+meta_title: Best 10 Integrations For Astro
+description: Best 10 Integrations For Astro
 date: 2024-09-29T00:00:00.000Z
 image: ''
 categories: []
@@ -9,7 +9,7 @@ author: ''
 tags: []
 draft: false
 ---
-Astro, a fast-growing static site generator known for its lightning-fast performance and flexibility, is a favorite among developers building modern websites and web apps. One of the reasons behind its popularity is its wide range of integrations that allow developers to supercharge their Astro projects. From content management to analytics, here are some of the most popular integrations for Astro CMS:
+[Astro](https://astro.build/ "Google"), a fast-growing static site generator known for its lightning-fast performance and flexibility, is a favorite among developers building modern websites and web apps. One of the reasons behind its popularity is its wide range of integrations that allow developers to supercharge their Astro projects. From content management to analytics, here are some of the most popular integrations for Astro CMS:
 
 ## 1. Netlify CMS
 
@@ -102,6 +102,8 @@ One of the easiest ways to manage content for your static sites is through [Netl
 
 [TinaCMS](https://tina.io/) is a Git-backed CMS designed for developers who want to offer in-context content editing. It allows users to see changes in real-time as they edit, making it a highly intuitive choice for content managers working with Astro.
 
+![](</SCR-20240929-ej5 (1).png>)
+
 ### Key Features:
 
 * In-context, live editing experience
@@ -111,7 +113,7 @@ One of the easiest ways to manage content for your static sites is through [Netl
 
 ## 10. Vercel Analytics
 
-Vercel Analytics is an excellent tool for Astro sites hosted on Vercel. It allows you to track page views and performance metrics without impacting your site speed, which is crucial for keeping Astro sites fast and lightweight.
+[Vercel](https://vercel.com/ "Google") Analytics is an excellent tool for Astro sites hosted on Vercel. It allows you to track page views and performance metrics without impacting your site speed, which is crucial for keeping Astro sites fast and lightweight.
 
 ### Key Features:
 
