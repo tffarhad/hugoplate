@@ -3,7 +3,7 @@ title: 'Top Integrations for Astro CMS: Enhancing Your Jamstack Workflow'
 meta_title: Best 10 Integrations For Astro
 description: Best 10 Integrations For Astro
 date: '2024-09-29T00:00:00.000Z'
-image: ''
+image: /SCR-20240929-ej5 (1).png
 categories:
   - Astro
   - CMS
