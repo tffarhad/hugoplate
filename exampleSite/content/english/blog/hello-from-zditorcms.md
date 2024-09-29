@@ -2,11 +2,21 @@
 title: 'Top Integrations for Astro CMS: Enhancing Your Jamstack Workflow'
 meta_title: Best 10 Integrations For Astro
 description: Best 10 Integrations For Astro
-date: 2024-09-29T00:00:00.000Z
+date: '2024-09-29T00:00:00.000Z'
 image: ''
-categories: []
+categories:
+  - Astro
+  - CMS
 author: ''
-tags: []
+tags:
+  - New Value
+  - New Value
+  - New Value
+  - New Value
+  - New Value
+  - New Value
+  - New Value
+  - New Value
 draft: false
 ---
 [Astro](https://astro.build/ "Google"), a fast-growing static site generator known for its lightning-fast performance and flexibility, is a favorite among developers building modern websites and web apps. One of the reasons behind its popularity is its wide range of integrations that allow developers to supercharge their Astro projects. From content management to analytics, here are some of the most popular integrations for Astro CMS:
