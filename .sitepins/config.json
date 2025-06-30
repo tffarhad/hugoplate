@@ -10,5 +10,5 @@
     "exampleSite/config/_default"
   ],
   "arrangement": [],
-  "showCommitModal": false
+  "showCommitModal": true
 }
