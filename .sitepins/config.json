@@ -1,7 +1,7 @@
 {
   "media": {
-    "root": "images",
-    "public": "./"
+    "root": "exampleSite/assets",
+    "public": "exampleSite/"
   },
   "content": {
     "root": "exampleSite/content"
