@@ -1,5 +1,5 @@
 ---
-title: How to build an Application with modern Technology in 2025
+title: 'updated title. '
 meta_title: ''
 description: this is meta description
 date: '2022-04-04T05:00:00.000Z'
@@ -15,4 +15,4 @@ draft: false
 ---
 What is Sitepins?
 
-Sitepins is a gitbased headless cms. \
+Sitepins is a gitbased headless cms. 
