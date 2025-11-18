@@ -11,7 +11,8 @@
   },
   "themeConfig": [
     "exampleSite/config/_default",
-    "exampleSite/hugo.toml"
+    "exampleSite/hugo.toml",
+    "exampleSite/data/theme.json"
   ],
   "arrangement": [],
   "showCommitModal": true
