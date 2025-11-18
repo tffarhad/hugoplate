@@ -10,8 +10,7 @@
     "root": "layouts/partials/components"
   },
   "themeConfig": [
-    "exampleSite/config/_default",
-    "exampleSite/config/_default/menus.en.toml"
+    "exampleSite/config/_default"
   ],
   "arrangement": [],
   "showCommitModal": true
