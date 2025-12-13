@@ -13,6 +13,10 @@ tags:
   - nextjs
 draft: false
 ---
-What is Sitepins?
+## What is Sitepins?
 
-Sitepins is a gitbased headless cms. 
+Sitepins is a gitbased headless cms.
+
+​
+
+Updated.
