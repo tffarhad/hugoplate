@@ -15,5 +15,5 @@
     "exampleSite/data/theme.json"
   ],
   "arrangement": [],
-  "showCommitModal": true
+  "showCommitModal": false
 }
