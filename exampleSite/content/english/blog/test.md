@@ -1,6 +1,6 @@
 ---
 title: What Is Sitepins?
-meta_title: ''
+meta_title: What Is Sitepins?
 description: >-
   Sitepins is a Git-based headless CMS (Content Management System) built to make
   content management for static websites both powerful and user-friendly.
@@ -15,7 +15,7 @@ draft: true
 
 At its core, Sitepins provides a **visual editing interface** — with both WYSIWYG (What You See Is What You Get) and Markdown support — that lets writers, marketers, and editors easily create and update content, while still keeping that content in Git for developers to track, review, and deploy.
 
-​
+![sitepins-ai](media/exampleSite/assets/ai-sitepins.png)
 
 ## How Sitepins Works
 
