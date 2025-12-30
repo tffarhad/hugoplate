@@ -16,7 +16,4 @@ draft: false
 ## What is Sitepins?
 
 Sitepins is a gitbased headless cms.
-
-​
-
-Updated.
+Updated with Prose.
