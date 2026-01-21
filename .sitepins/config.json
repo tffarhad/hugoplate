@@ -1,19 +1,13 @@
 {
-  "media": {
-    "root": "exampleSite/assets",
-    "public": "exampleSite"
-  },
-  "content": {
-    "root": "exampleSite/content"
-  },
-  "code": {
-    "root": "layouts/partials/components"
-  },
-  "themeConfig": [
+  "media": "exampleSite/assets",
+  "content": "exampleSite/content",
+  "code": "layouts/partials/components",
+  "arrangement": [],
+  "public": "exampleSite/static",
+  "configs": [
     "exampleSite/config/_default",
     "exampleSite/hugo.toml",
     "exampleSite/data/theme.json"
   ],
-  "arrangement": [],
-  "showCommitModal": false
+  "custom-commit": false
 }
