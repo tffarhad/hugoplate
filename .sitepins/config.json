@@ -2,7 +2,7 @@
   "content": "exampleSite/content",
   "media": "exampleSite/assets",
   "public": "exampleSite/static",
-  "code": "layouts",
+  "code": "assets/js",
   "configs": [
     "exampleSite/config/_default",
     "exampleSite/hugo.toml",
