@@ -5,26 +5,12 @@
   "fmType": "yaml",
   "template": [
     {
-      "name": "description",
-      "label": "Description",
-      "type": "string",
-      "value": "",
-      "defaultValue": ""
-    },
-    {
       "name": "date",
       "label": "Date",
       "type": "Date",
       "value": "",
       "defaultValue": "",
       "alwaysUseCurrentDate": false
-    },
-    {
-      "name": "image",
-      "label": "Image",
-      "type": "media",
-      "value": "",
-      "defaultValue": ""
     },
     {
       "name": "categories",
